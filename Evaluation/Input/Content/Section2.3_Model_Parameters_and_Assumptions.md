@@ -32,8 +32,8 @@ fQ_art*(C_pls_art+C_pls_art_ALB+C_pls_art_SHBG)+fQ_bon*(C_pls_bon+C_pls_bon_ALB+
 
 This is the result of the final parameter identification.
 
-| Model Parameter      | Optimized Value | Unit |
-| -------------------- | --------------- | ---- |
+| Model Parameter      | 
+| -------------------- | 
 | `logP` | 
 | `CYP3A4 CLspec/[enzyme]` |     
 | `Plasma Clearance` |      
