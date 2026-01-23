@@ -155,7 +155,7 @@ createQualificationReport <- function(qualificationRunnerFolder,
   #' workflow$inactivateTasks("plotPKRatio")
   #' workflow$inactivateTasks("plotDDIRatio")
 
-  #' Run the `QualificationWorklfow`
+  #' Run the `QualificationWorkflow`
   workflow$runWorkflow()
 
   #' Print timer tracked time if option `recordWorkflowTime` is set to TRUE
