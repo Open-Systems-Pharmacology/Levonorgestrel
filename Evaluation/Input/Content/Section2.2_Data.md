@@ -20,11 +20,11 @@ The following studies were used for model building (training data):
 
 | Publication                 |Dose | Route| Arm / Treatment / Information used for model building |
 | :-------------------------- |---| -----|----------------------------------------------- |
-| [Cicali 2021](#main-references) | 0.09 mg       |IV    |Healthy women receiving a single dose administration of lenovogestrel 
-| [Cicali 2021](#main-references) | 0.03 mg       |PO    |Healthy women receiving a single dose administration of lenovogestrel 
-| [Cicali 2021](#main-references) | 0.03 mg       |PO    |Healthy women receiving QD administration for 28 days of lenovogestrel 
-| [Cicali 2021](#main-references) | 0.09 mg       |PO    |Healthy women receiving a single dose administration of lenovogestrel 
-| [Cicali 2021](#main-references) | 0.27 mg       |PO    |Healthy women receiving a single dose administration of lenovogestrel 
+| [Cicali 2021](#main-references) | 0.09 mg       |IV    |Healthy women receiving a single dose administration of lenovogestrel |
+| [Cicali 2021](#main-references) | 0.03 mg       |PO    |Healthy women receiving a single dose administration of lenovogestrel |
+| [Cicali 2021](#main-references) | 0.03 mg       |PO    |Healthy women receiving QD administration for 28 days of lenovogestrel|
+| [Cicali 2021](#main-references) | 0.09 mg       |PO    |Healthy women receiving a single dose administration of lenovogestrel |
+| [Cicali 2021](#main-references) | 0.27 mg       |PO    |Healthy women receiving a single dose administration of lenovogestrel |
 
 
 The following studies were used for model evaluation:
