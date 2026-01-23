@@ -1,6 +1,6 @@
 ### In vitro / physico-chemical Data <a id="invitro-and-physico-chemical-data"></a>
 
-A literature search was performed to collect available information on physicochemical properties of levonogestrel. The obtained information from literature is summarized in the table below. 
+A literature search was performed to collect available information on physicochemical properties of levonorgestrel. The obtained information from literature is summarized in the table below. 
 
 | **Parameter**   | **Unit** | **Value** | Source                                     | **Description**                                 |
 | :-------------- | -------- | --------- | ------------------------------------------ | ----------------------------------------------- |
