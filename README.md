@@ -7,7 +7,7 @@ This repository contains:
 
 - a PK-Sim snapshot (*.json) file of the current whole-body PBPK model of levonorgestrel
 - static content (e.g., text blocks, *.md files) as inputs for an evaluation plan
-- an evaluation plan (evaluation-plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
+- an evaluation plan (evaluation_plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
 The present model represents an updated version of the model presented by Cicali *et al.* [[1]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12572). 
 This levonorgestrel model incorporates metabolism by CYP3A4 and additional hepatic clearance. The current evaluation plan focuses on the performance of the levonorgestrel model in healthy female volunteers.
