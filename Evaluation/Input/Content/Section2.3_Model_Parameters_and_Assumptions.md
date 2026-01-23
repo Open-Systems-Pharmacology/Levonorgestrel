@@ -1,3 +1,5 @@
+<a id="model-parameters-and-assumptions"></a>
+
 ### Absorption <a id="model-parameters-and-assumptions-absorption"></a>
 
 LNG administration was further expanded by incorporating
@@ -6,7 +8,7 @@ to simulate LNG exposure after oral administration. The permeability of LNG (`sp
 
 ### Distribution <a id="model-parameters-and-assumptions-distribution"></a>
 
-Unbound fraction (fu) was described with a specific binding process of levonogestrel to albumin and sex-hormone binding globulin (SHBG) as binding partners. Protein binding parameters (`Kd` and `Koff`) for albumin and SHBG were estimated by optimizing the model to subject-level data following IV administration of 0.09 mg of levonogestrel-only contraceptive to 18 women ([Cicali 2021](#main-references)).
+Unbound fraction (fu) was described with a specific binding process of levonorgestrel to albumin and sex-hormone binding globulin (SHBG) as binding partners. Protein binding parameters (`Kd` and `Koff`) for albumin and SHBG were estimated by optimizing the model to subject-level data following IV administration of 0.09 mg of levonogestrel-only contraceptive to 18 women ([Cicali 2021](#main-references)).
 
 Systemic levels of albumin and SHBG were based on the built-in expressed sequence tags database and on the clinical results
 by [Kuhnz 1994](#main-references).
@@ -17,7 +19,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 The contribution of CYP3A4 to unbound levonogestrel hepatic
 clearance was back-calculated from a clinical DDI study
-comparing the systemic exposure of a combined levonorgestrel and ethynilestradiol (LNG-EE)
+comparing the systemic exposure of a combined levonorgestrel and ethinylestradiol (LNG-EE)
 contraceptive administered with and without the strong
 CYP3A4 inhibitor telithromycin (i.e., net levonogestrel fraction metabolized by CYP3A4 when administered in combination with Ethinylestradiol). However, levonogestrel metabolic clearance was estimated to be ~ 30% lower for the Levonogestrel and Ethynilestradiol combined hormonal therapy compared with levonogestrel-only formulations. Only a fraction of the levonogestrel metabolic pathway (70%) was subject to a subsequent interaction with a second strong CYP3A4 inhibitor, namely telithromycin ([Cicali 2021](#main-references)). Thus, the back calculated area under the concentration-time curve ratio (AUCR) resulting from the concomitant interaction on LNG exposure (i.e., eethynilestradiol and telithromycin) would be 2.1 (i.e., AUCR/0.7), which is equivalent to an levonogestrel fraction metabolized by CYP3A4 of 47%. Given the lack of mechanistic information, the current model lumps the contribution of phase II enzymes to levonogestrel into a nonspecific hepatic clearance ([Cicali 2021](#main-references)). The simulated levonogestrel fraction metabolized by CYP3A4 (fmCYP3A4) was verified by comparing to published clinical DDI studies. Relative tissue distribution of CYP3A4 implemented into the model was loaded from the 'PK-Sim® Ontogeny Database Version 7.3' (PK-Sim Ontogeny Database Version 7.3) using RT-PCR as data source. 
 Both `CYP3A4 CLspec/[enzyme]` and `Plasma Clearance` were optimized against Cicali et al datasets [Cicali 2021](#main-references) . 

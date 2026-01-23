@@ -6,7 +6,7 @@
 
 **Cicali 2021** Cicali B, Lingineni K, Cristofoletti R, Wendl T, Hoechel J, Wiesinger H, Chaturvedula A, Vozmediano V, Schmidt S. Quantitative Assessment of Levonorgestrel Binding Partner Interplay and Drug-Drug Interactions Using Physiologically Based Pharmacokinetic Modeling. CPT Pharmacometrics Syst Pharmacol. 2021 Jan;10(1):48-58. doi: 10.1002/psp4.12572. 
 
-**Drugbank** Levonorgestrel. https://go.drugbank.com/drugs/DB00367. Accessed 11/03/2025.
+**Drugbank** Levonorgestrel. https://go.drugbank.com/drugs/DB00367. Accessed 03/11/2025.
 
 **FDA 2017** PlanB (levonorgestrel) tablets, Drug label information, US Food and Drug Administration (2010). https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021045s016lbl.pdf
 

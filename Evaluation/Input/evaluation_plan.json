@@ -152,6 +152,11 @@
             },
             {
                 "Project": "Levonorgestrel",
+                "Simulation": "Back 1981_Levonorgestrel_PO_0.25 mg",
+                "SectionReference": "ct-profiles"
+            },
+            {
+                "Project": "Levonorgestrel",
                 "Simulation": "Back 1987_Levonorgestrel_PO_0.25 mg",
                 "SectionReference": "ct-profiles"
             },

@@ -1,18 +1,18 @@
-### In vitro / physico-chemical Data <a id="invitro-and-physico-chemical-data"></a>
+### In vitro / physico-chemical Data <a id="methods-data"></a>
 
 A literature search was performed to collect available information on physicochemical properties of levonorgestrel. The obtained information from literature is summarized in the table below. 
 
 | **Parameter**   | **Unit** | **Value** | Source                                     | **Description**                                 |
 | :-------------- | -------- | --------- | ------------------------------------------ | ----------------------------------------------- |
 | MW| g/mol|312.44| [Bayer 2009](#main-references)| Molecular weight|   
-| logP | |3.3-3.8| [Drugbank](#main-references), [Pubchem](#main-references)| Molecular weight|   |
+| logP | |3.3-3.8| [Drugbank](#main-references), [Pubchem](#main-references)| Molecular weight|   
 | Solubility (pH) |     mg/l  |         14 (6.5)     | [Rao 2011](#main-references)| FaSSIF Solubility|
 | Specific Protein binding: SHBG Koff           | 1/min        | 17.4       | [Li 1990](#main-references)                | sex-hormone binding globulin rate of protein-ligand dissociation                    |
 | Specific Protein binding: SHBG Kd|    μmol/L       | 0.0005                               |[Li 1990](#main-references)        |sex-hormone binding globulin dissociation constant|
 
 ### Clinical Data  <a id="clinical-data"></a>
 
-A literature search was performed to collect available clinical data on levonogestrel in healthy adults.
+A literature search was performed to collect available clinical data on levonorgestrel in healthy adults.
 
 #### Model Building <a id="model-building"></a>
 
