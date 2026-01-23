@@ -10,7 +10,7 @@ This repository contains:
 - an evaluation plan (evaluation-plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
 The present model represents an updated version of the model presented by Cicali *et al.* [[1]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12572). 
-This levonorgestrel model incorporates metabolism by CYP3A4 and additional hepatic clearance. The current evaluation plan focuses on the performance of the levonorgestrel model in healthy female volunteers
+This levonorgestrel model incorporates metabolism by CYP3A4 and additional hepatic clearance. The current evaluation plan focuses on the performance of the levonorgestrel model in healthy female volunteers.
 
 For further information on CYP3A4-mediated drug-drug interactions (DDI) when orally administered either alone or in combination with ethinylestradiol in healthy and obese women, refer to [[1]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.12572).
 
