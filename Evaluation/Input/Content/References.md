@@ -6,9 +6,9 @@
 
 **Cicali 2021** Cicali B, Lingineni K, Cristofoletti R, Wendl T, Hoechel J, Wiesinger H, Chaturvedula A, Vozmediano V, Schmidt S. Quantitative Assessment of Levonorgestrel Binding Partner Interplay and Drug-Drug Interactions Using Physiologically Based Pharmacokinetic Modeling. CPT Pharmacometrics Syst Pharmacol. 2021 Jan;10(1):48-58. doi: 10.1002/psp4.12572. 
 
-**Drugbank** Levonorgestrel. https://go.drugbank.com/drugs/DB00367. Accessed 03/11/2025.
+**Drugbank** Levonorgestrel. [https://go.drugbank.com/drugs/DB00367](https://go.drugbank.com/drugs/DB00367), accessed on 03/11/2025.
 
-**FDA 2017** PlanB (levonorgestrel) tablets, Drug label information, US Food and Drug Administration (2010). https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021045s016lbl.pdf
+**FDA 2017** PlanB (levonorgestrel) tablets, Drug label information, US Food and Drug Administration (2010). [https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021045s016lbl.pdf](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021045s016lbl.pdf)
 
 **Goebelsmann 1986** Goebelsmann U, Hoffman D, Chiang S, Woutersz T. The relative bioavailability of levonorgestrel and ethinyl estradiol administered as a low-dose combination oral contraceptive. Contraception. 1986 Oct;34(4):341-51. doi: 10.1016/0010-7824(86)90087-9. 
 
@@ -32,7 +32,7 @@
 
 **NovoNordisk 2007** Novo Nordisk A/S, D. (2007). "A Double-Blind, Two Period Cross-Over, Single Centre Trial in Healthy Subjects Investigating the Influence on the Pharmacokinetics of Ethinylestradiol and Levonorgestrel in an Oral Contraceptive Drug after Multiple Dose Administration of Liraglutide."
 
-**Pubchem** https://pubchem.ncbi.nlm.nih.gov/compound/Levonorgestrel. Accessed 03/11/2025.
+**Pubchem** [https://pubchem.ncbi.nlm.nih.gov/compound/Levonorgestrel](https://pubchem.ncbi.nlm.nih.gov/compound/Levonorgestrel), accessed on 03/11/2025.
 
 **Praditpan 2017** Praditpan P, Hamouie A, Basaraba CN, Nandakumar R, Cremers S, Davis AR, Westhoff CL. Pharmacokinetics of levonorgestrel and ulipristal acetate emergency contraception in women with normal and obese body mass index. Contraception. 2017 May;95(5):464-469. doi: 10.1016/j.contraception.2017.01.004.
 
